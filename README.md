@@ -1,4 +1,7 @@
+ # make-code assignment
  
+ ## Assignment
+ Update the variable name so that it matches the food sprite image
 
 
 > Open this page at [https://degank.github.io/shark-game/](https://degank.github.io/shark-game/)
